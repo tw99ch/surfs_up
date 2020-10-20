@@ -10,9 +10,9 @@ From the analysis of June and December temperatures data, we noted the below res
 - The minimun temperatures for June is 64 whereas minimum temperatures for December is 56.
 - The maximun temperatures for June is 85 whereas maximum temperatures for December is 83.
 
-![](/Output/June_Temp.PNG)
+![](/Output/June_Temp.png)
 
-![](/Output/Dec_Temp.PNG)
+![](/Output/Dec_Temp.png)
 
 ## Summary:
 Based on the below summurized data, we noted the temperatures in June is only slightly higher than December. June average temperatures is 74.94 which is 3.80 higher than December. There is not much difference in temperatures in winter months and summer months and both temperatures are suitable for surfing and ice cream.
